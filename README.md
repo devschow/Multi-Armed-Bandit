@@ -43,9 +43,7 @@ This setup is **based on** the foundational example presented in Sutton & Barto'
 ```
 multi-armed-bandit/
 ├── multi_armed_bandit.ipynb # Main notebook with bandit simulation and plots
-├── plots/
-│ └── bandit_results.png # Combined plot of reward and optimal action
+├── bandit_results.png # Combined plot of reward and optimal action
 ├── LICENSE # Custom academic license
 ├── README.md # Project overview
-└── requirements.txt # Python dependencies
 ```
