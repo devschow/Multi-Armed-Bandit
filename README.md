@@ -47,3 +47,12 @@ multi-armed-bandit/
 ├── LICENSE # Custom academic license
 ├── README.md # Project overview
 ```
+---
+
+## 📚 References
+
+- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.).  
+  Chapter 2.2 – Action-Value Methods, Figure 2.1, Page 35  
+  [Read Online (Free PDF)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+- NumPy Documentation. (n.d.). [https://numpy.org/doc/](https://numpy.org/doc/)
