@@ -30,7 +30,7 @@ This setup is **based on** the foundational example presented in Sutton & Barto'
 
 ## 📊 Results
 
-![Multi-Armed Bandit Results](plots/bandit_results.png)
+![Multi-Armed Bandit Results](bandit_results.png)
 
 - Left: % Optimal Action chosen over time  
 - Right: Average reward earned over time  
